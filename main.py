@@ -224,7 +224,3 @@ if __name__ == '__main__':
       print("IT'S A HOT DOG")
     else:
       print("IT'S NOT A HOT DOG")
-
-#PUTTING MY SECRETS HERE SO I DON'T FORGET THEM:
-API_KEY=asdfasdfasdfasdfasdf
-FLAG=podium{open_source_garbage}
